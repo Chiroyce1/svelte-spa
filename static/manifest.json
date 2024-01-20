@@ -1,0 +1,18 @@
+{
+	"short_name": "Svelte SPA",
+	"name": "Sveltekit SPA",
+	"description": "A client side rendered static Svelte single page app that can be hosted as a static site. ",
+	"icons": [
+		{
+			"src": "/svelte-spa/favicon.svg",
+			"type": "image/svg+xml",
+			"sizes": "500x500"
+		}
+	],
+	"id": "/svelte-spa",
+	"start_url": "/svelte-spa",
+	"background_color": "#3367D6",
+	"display": "standalone",
+	"scope": "/svelte-spa",
+	"theme_color": "#3367D6"
+}
